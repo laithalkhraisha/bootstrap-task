@@ -1,0 +1,15 @@
+.col-sm-4{
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+footer{
+    background-color: rgba(255, 103, 103, 0.533);
+}
+nav{
+    background-color:rgba(255, 103, 103, 0.533);
+}
+.hero{
+    background-color: rgba(189, 8, 8, 0.599);
+    margin-top: -48px;
+    margin-bottom: -48px;
+}
